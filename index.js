@@ -22,7 +22,7 @@ class OmAPI {
                 if (!message.error) {
                     return message;
                 } else {
-                    throw new Error(message.error);
+                    throw new Error(message.description);
                 };
             } catch (error) {
                 throw new Error(error);
