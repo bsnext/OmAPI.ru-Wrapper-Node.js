@@ -74,7 +74,7 @@ class OmAPISession {
 ////////////////
 
 const OmAPIUserMethods = [
-    `getFollowersCount`, `getFollowersList`, `getFollowsCount`, `getFollowsList`, `getFavorites`, `getModerators`, `getAvatar`, `getLevel`, `isLive`, `isVerified`, `isHasOmletCreator`, `isHasOmletPlus`, `getStreamViewers`, `getStreamHotness`, `getStreamSessionID`, `getFollowersCount`, `getFollowersList`, `getFollowsCount`,
+    `getFollowersCount`, `getFollowersList`, `getFollowsCount`, `getFollowsList`, `getFavorites`, `getModerators`, `getAvatar`, `getLevel`, `isLive`, `isVerified`, `isHasOmletCreator`, `isHasOmletPlus`, `getStreamViewers`, `getStreamHotness`, `getStreamSessionID`, `getFollowersCount`, `getFollowersList`, `getFollowsCount`, `getStreamViewersList`
 ];
 
 const OmAPISessionMethods = [
