@@ -2,4 +2,4 @@
 
 npm install https://github.com/nextapi-ru/OmAPI.ru-Wrapper-Node.js
 
-const OmAPI = require(`omapi-wrapper`);
+const OmAPI = require(\`omapi-wrapper\`);
